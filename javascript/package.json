@@ -1,0 +1,10 @@
+{
+  "name": "top-games-api-examples",
+  "version": "1.0.0",
+  "description": "Some examples for our API",
+  "dependencies": {
+    "axios": "^1.6.7"
+  },
+  "author": "Top-Games",
+  "license": "ISC"
+}
